@@ -1,0 +1,23 @@
+/node_modules
+yarn.lock
+package-lock.json
+/dist
+
+
+# production
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*
+
+.idea/
+.vscode/
+
+*.tsbuildinfo
+
+misc
+.DS_Store
